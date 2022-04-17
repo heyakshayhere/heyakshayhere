@@ -3,7 +3,6 @@
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif">
 
 
-
 - 👨‍💻 All of my projects are available at [https://github.com/heyakshayhere](https://github.com/heyakshayhere)
 
 - 💬 Ask me about **Data science ,Machine learning, Deep learning, Computer vision, NLP, Web scraping, Data analysis, Time series analysis**
