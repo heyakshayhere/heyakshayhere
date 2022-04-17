@@ -1,4 +1,4 @@
-<h1 align="center">Heyy 👋 Akshay Satpute here</h1>
+<h1 align="center">Heyy 👋🏻 Akshay Satpute here</h1>
 <h3 align="center">Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif">
 
