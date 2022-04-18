@@ -4,7 +4,7 @@
 
 </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/heyakshayhere](https://github.com/heyakshayhere)
+- 👨🏻‍💻 All of my projects are available at [https://github.com/heyakshayhere](https://github.com/heyakshayhere)
 
 - 💬 Ask me about **Data science ,Machine learning, Deep learning, Computer vision, NLP, Web scraping, Data analysis, Time series analysis**
 
