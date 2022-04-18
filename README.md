@@ -32,10 +32,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/768px-Keras_logo.svg.png?20200317115153" title="keras" alt="keras" width="40" height="40"/>&nbsp;
 <img src="https://1000logos.net/wp-content/uploads/2021/04/AutoCAD-logo.png" title="AutoCAD" alt="AutoCAD" width="80" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/SolidWorks_Logo.svg/1920px-SolidWorks_Logo.svg.png" title="solidworks" alt="solidworks" width="80" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/SolidWorks_Logo.svg/1920px-SolidWorks_Logo.svg.png" title="solidworks" alt="solidworks" width="100" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/CATIA_Logotype_RGB_Blue.png" title="catia" alt="catia" width="80" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/PTC_Creo_logo.svg/1920px-PTC_Creo_logo.svg.png" title="creo" alt="creo" width="80" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ansys_logo_%282019%29.svg/1920px-Ansys_logo_%282019%29.svg.png" title="ansys" alt="ansys" width="80" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/PTC_Creo_logo.svg/1920px-PTC_Creo_logo.svg.png" title="creo" alt="creo" width="100" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Ansys_logo_%282019%29.svg/1920px-Ansys_logo_%282019%29.svg.png" title="ansys" alt="ansys" width="100" height="40"/>&nbsp;
 <img src="https://i0.wp.com/filecr.com/wp-content/uploads/2019/01/Scr1_Altair-HyperWorks_free-download.jpg" title="HyperWorks" alt="HyperWorks" width="80" height="40"/>&nbsp;
 <img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg" title="bs4" alt="bs4" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/768px-SCIPY_2.svg.png?20200904111722" title="scipy" alt="scipy" width="40" height="40"/>&nbsp;
