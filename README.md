@@ -6,7 +6,7 @@
 
 - 👨🏻‍💻 All of my projects are available at [https://github.com/heyakshayhere](https://github.com/heyakshayhere)
 
-- 💬 Ask me about **Data science ,Machine learning, Deep learning, Computer vision, NLP, Web scraping, Data analysis, Time series analysis**
+- 💬 Ask me about **Data science ,Machine learning, Deep learning, Computer vision, NLP and creating chatbots, Web scraping, Data analysis, Time series analysis**
 
 - 📫 How to reach me **satputeakshaydeelip@gmail.com**
 
