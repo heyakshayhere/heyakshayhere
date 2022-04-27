@@ -39,6 +39,8 @@
 <img src="https://i0.wp.com/filecr.com/wp-content/uploads/2019/01/Scr1_Altair-HyperWorks_free-download.jpg" title="HyperWorks" alt="HyperWorks" width="80" height="40"/>&nbsp;
 <img src="https://www.crummy.com/software/BeautifulSoup/bs4/doc/_images/6.1.jpg" title="bs4" alt="bs4" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/768px-SCIPY_2.svg.png?20200904111722" title="scipy" alt="scipy" width="40" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Rasa_nlu_horizontal_purple.svg" title="rasa" alt="rasa" width="40" height="40"/>&nbsp;
+<img src="https://avatars.githubusercontent.com/u/26833451?s=200&v=4" title="ultralytics" alt="ultralytics" width="40" height="40"/>&nbsp;
 </p>
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=heyakshayhere&theme=react-dark&hide_border=true&cache_seconds=1)
