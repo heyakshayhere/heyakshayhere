@@ -41,7 +41,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/SCIPY_2.svg/768px-SCIPY_2.svg.png?20200904111722" title="scipy" alt="scipy" width="40" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Rasa_nlu_horizontal_purple.svg" title="rasa" alt="rasa" width="40" height="40"/>&nbsp;
 <img src="https://avatars.githubusercontent.com/u/26833451?s=200&v=4" title="ultralytics" alt="ultralytics" width="40" height="40"/>&nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Dialogflow_logo.svg/1920px-Dialogflow_logo.svg.png" title="dialogflow" alt="dialogflow" width="120" height="40"/>&nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Dialogflow_logo.svg/1920px-Dialogflow_logo.svg.png" title="dialogflow" alt="dialogflow" width="140" height="40"/>&nbsp;
 </p>
 
 ![github activity graph](https://activity-graph.herokuapp.com/graph?username=heyakshayhere&theme=react-dark&hide_border=true&cache_seconds=1)
