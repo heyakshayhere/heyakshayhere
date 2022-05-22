@@ -1,7 +1,8 @@
 <h1 align="center">Heyy 👋🏻 Akshay Satpute here</h1>
 <h3 align="center">Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif">
 
+<p align="center">
+  <img src="https://c.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif" alt="gif" />
 </p>
 
 - 👨🏻‍💻 All of my projects are available at [https://github.com/heyakshayhere](https://github.com/heyakshayhere)
