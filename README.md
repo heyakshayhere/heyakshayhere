@@ -2,7 +2,7 @@
 <h3 align="center">Data Scientist</h3>
 
 <p align="center">
-  <img src="https://c.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif" alt="gif" />
+  <img src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1__HFjXH8bCe0wQT9Zu3SVgg-1.gif" height="500" width="700" alt="gif" />
 </p>
 
 - 👨🏻‍💻 All of my projects are available at [github](https://github.com/heyakshayhere)
