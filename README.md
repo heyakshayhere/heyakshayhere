@@ -5,13 +5,13 @@
   <img src="https://c.tenor.com/lvLaG5hPCncAAAAd/data-analysis.gif" alt="gif" />
 </p>
 
-- 👨🏻‍💻 All of my projects are available at [https://github.com/heyakshayhere](https://github.com/heyakshayhere)
+- 👨🏻‍💻 All of my projects are available at [github](https://github.com/heyakshayhere)
 
 - 💬 Ask me about **Data science ,Machine learning, Deep learning, Computer vision, NLP and creating chatbots, Web scraping, Data analysis, Time series analysis**
 
 - 📫 How to reach me **satputeakshaydeelip@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jqSZcHhCZpO_WJvFDRxQ9USWoDBGgyNA/view?usp=sharing](https://drive.google.com/file/d/1jqSZcHhCZpO_WJvFDRxQ9USWoDBGgyNA/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1-wfknxaZH8gC10dgAiNeic-9XqQ_M7nT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
