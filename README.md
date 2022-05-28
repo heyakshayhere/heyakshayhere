@@ -1,5 +1,9 @@
-<h1 align="center">Heyy 👋🏻 Akshay Satpute here</h1>
-<h3 align="center">Data Scientist</h3>
+<h1 align="center">
+  <img src= "https://readme-typing-svg.herokuapp.com?size=30&color=F7F7F7&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Heyy+%F0%9F%91%8B%F0%9F%8F%BB+Akshay+Satpute+here"/>
+ </h1>
+
+
+<h2 align="center">Data Scientist</h2>
 
 <p align="center">
   <img src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1__HFjXH8bCe0wQT9Zu3SVgg-1.gif" alt="gif" />
