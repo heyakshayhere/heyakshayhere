@@ -4,7 +4,8 @@
 <p align="center">
   <img src="https://sagaratechnology.com/blog/wp-content/uploads/2020/09/1__HFjXH8bCe0wQT9Zu3SVgg-1.gif" alt="gif" />
 </p>
-
+  
+  
 - 👨🏻‍💻 All of my projects are available at [github](https://github.com/heyakshayhere)
 
 - 💬 Ask me about **Data science ,Machine learning, Deep learning, Computer vision, NLP and creating chatbots, Web scraping, Data analysis, Time series analysis**
@@ -50,6 +51,9 @@
 [comment]: <> (Activity Graph)
 ![Akshay's github activity graph](https://activity-graph.herokuapp.com/graph?username=heyakshayhere&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
 
+<p align="center">
+  <img src= "https://github.com/heyakshayhere/heyakshayhere/blob/output/github-contribution-grid-snake.gif"
+</p>  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyakshayhere&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&cache_seconds=1" alt="heyakshayhere" /></p>
 
