@@ -53,12 +53,10 @@
 </p>
 
 [comment]: <> (Activity Graph)
-![Akshay's github activity graph](https://activity-graph.herokuapp.com/graph?username=heyakshayhere&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true)
+<p><img align="center" src="https://github.com/heyakshayhere/heyakshayhere/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="heyakshayhere" /></p>
 
 <p align="center">
   <img src= "https://github.com/heyakshayhere/heyakshayhere/blob/output/github-contribution-grid-snake.gif"
 </p>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heyakshayhere&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact&cache_seconds=1" alt="heyakshayhere" /></p>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=heyakshayhere&theme=highcontrast&hide_border=true&cache_seconds=1" alt="heyakshayhere" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyakshayhere&theme=highcontrast&hide_border=true&cache_seconds=1" alt="heyakshayhere" /></p>
