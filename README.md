@@ -56,5 +56,3 @@
 <p align="center">
   <img src= "https://github.com/heyakshayhere/heyakshayhere/blob/output/github-contribution-grid-snake.svg"
 </p>  
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyakshayhere&theme=highcontrast&hide_border=true&cache_seconds=1" alt="heyakshayhere" /></p>
