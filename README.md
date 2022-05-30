@@ -50,17 +50,17 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="unix" width="40" height="40"/>&nbsp;
 </p>
 
-######  Contribution Statistics (API updates hourly)
+
 [comment]: <> (Activity Graph)
 <p><img align="center" src="https://github.com/heyakshayhere/heyakshayhere/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="heyakshayhere" /></p>
 
-### Snake eating my contributions :
+### Watch snake eating my contributions 🐍
 
 <p align="center">
   <img src= "https://github.com/heyakshayhere/heyakshayhere/blob/output/github-contribution-grid-snake.svg"
 </p>  
   
-######  Github Streaks (API updates with latest time)
+  
 <p align="center">
   <img src= "http://github-readme-streak-stats.herokuapp.com?user=heyakshayhere&theme=midnight-purple&hide_border=true"
 </p> 
