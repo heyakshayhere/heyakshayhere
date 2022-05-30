@@ -65,4 +65,4 @@
   <img src= "http://github-readme-streak-stats.herokuapp.com?user=heyakshayhere&theme=midnight-purple&hide_border=true"
 </p> 
 
-  ###### **NOTE - You may see the difference in the contribution numbers it totally depends on the api fetching time for each data
+  ###### **NOTE - You may see the difference in the contribution numbers it totally depends on the API fetching time for each data
