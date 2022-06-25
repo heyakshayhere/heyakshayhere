@@ -48,6 +48,8 @@
 <img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/c7/Dialogflow_logo.svg/1920px-Dialogflow_logo.svg.png" title="dialogflow" alt="dialogflow" width="140" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" alt="bash" width="80" height="40"/>&nbsp;
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="unix" width="40" height="40"/>&nbsp;
+<img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>&nbsp;
+<img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" alt="flask" width="80" height="40"/>&nbsp;
 </p>
 
 
