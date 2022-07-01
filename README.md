@@ -51,6 +51,7 @@
 <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>&nbsp;
 <img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" alt="flask" width="80" height="40"/>&nbsp;
 <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="100" height="40"/>&nbsp;
+<img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="50" height="40"/>&nbsp;
 </p>
 
 
