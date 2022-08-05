@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **satputeakshaydeelip@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1-wfknxaZH8gC10dgAiNeic-9XqQ_M7nT/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1sG2AK2f3SJfFofP0LgCU2aaxyaTpjybq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -52,8 +52,9 @@
 <img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" alt="flask" width="80" height="40"/>&nbsp;
 <img src="https://static.djangoproject.com/img/logos/django-logo-negative.svg" alt="django" width="100" height="40"/>&nbsp;
 <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="50" height="40"/>&nbsp;
-<img src="https://pyscript.net/assets/images/pyscript-sticker-black.svg" alt="pyscript" width="70" height="40"/>&nbsp;
+<img src="https://pyscript.net/assets/images/pyscript-sticker-black.svg" alt="pyscript" width="60" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://static.javatpoint.com/core/images/java-logo1.png" alt="java" width="70" height="40"/>&nbsp;
 </p>
 
 
